@@ -13,14 +13,14 @@ Credit to course instructor for guidance.
 
 ##File Structure 
 - As In asset file only the code.html and style.css file there.
-- As the images are put in that way only in <img> tag. 
+- As the images are put in that way only in `<img>` tag. 
 
 ## 📦 Tech Stack
 - **HTML** for structure
 - **CSS** for styling
 
 ##Image 
-<img src 
+<img src="image.png" alt="Image">
 
 ## 🛠️ Setup
 1. Clone the repo:
