@@ -20,7 +20,7 @@ Credit to course instructor for guidance.
 - **CSS** for styling
 
 ##Image 
-<img src="image.png" alt="Image">
+<img src="Image.png" alt="Image">
 
 ## 🛠️ Setup
 1. Clone the repo:
