@@ -28,7 +28,7 @@ This project was created by following a web development course and is intended f
 
 ## 🙏 Credits
 
-This project was built by following the **Apna College Web Development Course** for learning purposes. I coded the project while following the course to practice HTML and CSS. Thanks to the course instructor for the guidance.
+This project was built by following the **Web Development Course** for learning purposes. I coded the project while following the course to practice HTML and CSS. Thanks to the course instructor for the guidance.
 
 ## 📌 Note
 
