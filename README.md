@@ -1,28 +1,35 @@
-# Spotify Interface (Dummy Project)
+# Spotify Interface (Practice Project)
 
-A static Spotify interface built with **HTML and CSS**.  
-This project was created by following a course tutorial and is meant for practice and learning purposes only.  
-It does not include any real functionality — just a visual clone of the Spotify layout.
-Credit to course instructor for guidance.
+A static Spotify-inspired interface built with **HTML** and **CSS**.
+
+This project was created by following a web development course and is intended for learning and practice purposes only. It does not include any real functionality—only a visual clone of the Spotify interface.
 
 ## 🚀 Features
-- Basic Spotify‑like layout
-- Pure HTML and CSS (no JavaScript)
-- Dummy interface for practice
-- Responsive structure (depending on CSS used in the course)
 
-##File Structure 
-- As In asset file only the code.html and style.css file there.
-- As the images are put in that way only in `<img>` tag. 
+- Spotify-inspired user interface
+- Built using HTML and CSS
+- Practice project for learning front-end development
 
-## 📦 Tech Stack
-- **HTML** for structure
-- **CSS** for styling
+## 📁 File Structure
 
-##Image 
-<img src="Image.png" alt="Image">
+- The `assets` folder contains:
+  - `Code.html` (main HTML file)
+  - `Code.css` (stylesheet)
+  - Images and icons used in the project
 
-## 🛠️ Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/kumarsahudinesh52-byte/spotify-interface.git
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+
+## 📷 Screenshot
+
+<img src="Image.png" alt="Spotify Interface Screenshot" width = 300px>
+
+## 🙏 Credits
+
+This project was built by following the **Apna College Web Development Course** for learning purposes. I coded the project while following the course to practice HTML and CSS. Thanks to the course instructor for the guidance.
+
+## 📌 Note
+
+This is a practice project and is not affiliated with Spotify. All trademarks, logos, and design inspiration belong to Spotify.
