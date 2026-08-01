@@ -13,9 +13,9 @@ This project was created by following a web development course and is intended f
 ## 📁 File Structure
 
 - The `assets` folder contains:
-  - `Code.html` (main HTML file)
-  - `Code.css` (stylesheet)
   - Images and icons used in the project
+-`code.css` file for (style)
+-`code.html` file for (html code)
 
 ## 🛠️ Tech Stack
 
