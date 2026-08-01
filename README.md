@@ -14,8 +14,8 @@ This project was created by following a web development course and is intended f
 
 - The `assets` folder contains:
   - Images and icons used in the project
--`code.css` file for (style)
--`code.html` file for (html code)
+- `code.css` file for (style)
+- `code.html` file for (html code)
 
 ## 🛠️ Tech Stack
 
